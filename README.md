@@ -1,4 +1,4 @@
-# Hi, I'm ESHARIVE JOSHUA AKPEVWEOGHENE, or Retrobrime or short 🙂
+# Hi, I'm ESHARIVE JOSHUA AKPEVWEOGHENE, or Retrobrime for short 🙂
 
 I build browser-native tools, local-first utilities, and creative web projects.
 
