@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm ESHARIVE JOSHUA AKPEVWEOGHENE, or Retrobrime or short 🙂
 
-<!--
-**retrobrime/retrobrime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build browser-native tools, local-first utilities, and creative web projects.
 
-Here are some ideas to get you started:
+## Featured Project: devTools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+devTools is a free local-first browser utility suite for real technical work.
+
+It includes tools for:
+
+- JSON formatting and validation
+- Base64 encoding and decoding
+- JWT inspection
+- Hash generation
+- URL parsing and cleaning
+- QR code generation
+- Image compression
+- Invoice generation
+- File renaming
+- Unit conversion
+- Text cleaning
+
+## Launch devTools
+
+https://joshuasite.com/my-works/devtools/
+
+## GitHub Repository
+
+https://github.com/retrobrime/devtools
+
+## What I Build
+
+I focus on practical web tools, polished interfaces, browser-native utilities, and projects that are fast, private, and useful.
+
+## Current Focus
+
+- Improving devTools visibility
+- Building public credibility around my work
+- Creating useful tools for developers, students, freelancers, and technical creators
+
+## Portfolio
+
+https://joshuasite.com/
